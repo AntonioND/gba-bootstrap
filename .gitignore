@@ -1,0 +1,6 @@
+build/
+*.gba
+*.elf
+*.map
+*.sav
+*.swp
