@@ -9,6 +9,12 @@ There is an example of the codebase using just C and an example of using C and
 C++. Feel free to modify anything as you wish to suit your needs. This is meant
 to be a relatively simple to understand template for anyone to use as base.
 
+The license of the files in this repository is CC0 1.0 Universal, so you can
+treat all the files as if they were in the public domain.
+
+For an up-to-date version of this repository, check the GitHub repository:
+https://github.com/AntonioND/gba-bootstrap
+
 Instructions
 ------------
 
