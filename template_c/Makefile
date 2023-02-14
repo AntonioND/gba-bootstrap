@@ -132,7 +132,7 @@ $(BUILDDIR)/%.cpp.o : $(SOURCEDIR)/%.cpp
 # Targets
 # -------
 
-.PHONY: all clean bin dump
+.PHONY: all clean dump
 
 all: $(ROM)
 
